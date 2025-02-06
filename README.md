@@ -18,7 +18,7 @@ This project demonstrates the implementation of the **Model-View-ViewModel (MVVM
 
 
 ### Notes:
-- The GIF is referenced using `![App Demo](assets/rec.gif)`. Ensure that the `rec.gif` file is inside the `assets` directory at the root of your repository.
+- The GIF is referenced using ![App Demo](assets/rec.gif)
 
 
 ## Dependencies
